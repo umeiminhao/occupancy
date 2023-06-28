@@ -1,0 +1,10 @@
+{
+    "program": "occupancy.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpGWnUFoLqB8dPDL2JLWmyZBu1qz322DerQnsMTwxNRdY9",
+        "address": "aleo1pkwax8m3z8mmqtjs9h3p0zk7lycpnnq6txt4wch3t3ee0s3vyy8sjqz8d2"
+    },
+    "license": "MIT"
+}
