@@ -1,7 +1,7 @@
 # occupancy.aleo
 
 
-## name
+## Name
 Anonym Counter
 
 ## Summary
